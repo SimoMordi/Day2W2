@@ -2,4 +2,14 @@
 h2{
     text-align: center;
     color: blue;
-} cd 
+} 
+
+.container span {
+    position: absolute;
+    color: white;
+    z-index: 5;
+}
+
+img{
+    position: absolute;
+}
